@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('mockable-android-26.v3.jar'))

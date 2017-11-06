@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':mockable-android-26.v3'
